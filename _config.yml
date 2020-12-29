@@ -67,8 +67,4 @@ exclude:
   - changelog.md
   - "*.Rmd"
   - vendor
-<<<<<<< HEAD
   - .travis.yml
-=======
-  - .travis.yml
->>>>>>> 454c67f039fc057a92eacf02cf7ee4e777348f19
