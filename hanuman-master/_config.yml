@@ -1,11 +1,6 @@
 # Site settings
-<<<<<<< HEAD
-title: Akshay Subramaniam
-description:
-=======
 title: Hanuman
 description: Hanuman is a minimal yet powerful Jekyll theme for your blogs and websites.
->>>>>>> 454c67f039fc057a92eacf02cf7ee4e777348f19
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
@@ -14,11 +9,7 @@ url: "https://samanyougarg.com" # the base hostname & protocol for your site
 
 pagination:
 
-<<<<<<< HEAD
-  # Site-wide kill switch, disabled here it doesn't run at all
-=======
   # Site-wide kill switch, disabled here it doesn't run at all 
->>>>>>> 454c67f039fc057a92eacf02cf7ee4e777348f19
   enabled: true
 
   # Set to 'true' to enable pagination debugging. This can be enabled in the site config or only for individual pagination pages
@@ -72,8 +63,4 @@ exclude:
   - changelog.md
   - "*.Rmd"
   - vendor
-<<<<<<< HEAD
   - .travis.yml
-=======
-  - .travis.yml
->>>>>>> 454c67f039fc057a92eacf02cf7ee4e777348f19
