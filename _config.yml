@@ -1,11 +1,6 @@
 # Site settings
-<<<<<<< HEAD
-title: "Akshay Subramaniam"
-description: "Welcome"
-=======
 title: "Akshay Subramaniam"
 description: "Welcome to my website"
->>>>>>> 454c67f039fc057a92eacf02cf7ee4e777348f19
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
