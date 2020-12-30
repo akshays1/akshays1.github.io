@@ -4,6 +4,12 @@ main:
   # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
    - title: "About"
      url: https://akshays1.github.io/about/
+   - title: "Research"
+     url: https://akshays1.github.io/research/
+   - title: "Projects"
+     url: https://akshays1.github.io/projects/
+   - title: "Blog"
+     url: https://akshays1.github.io/blog/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
