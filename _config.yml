@@ -121,7 +121,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/akshays46"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-googlescholar"
+      icon: "fab fa-fw fa-google-scholar"
       url: "https://scholar.google.co.in/citations?user=ZZaYiYAAAAAJ&hl=en"
 
 # Site Footer
